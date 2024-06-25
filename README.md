@@ -3,7 +3,7 @@
 I am currently a PhD candidate in Dr. John Wise's Computational Cosmology group at Georgia Tech's Center for Relativistic Astrophysics, looking to graduate within the next year. I work on computational cosmology and machine learning techniques, but am always looking to diversify my learning experience. I like working on projects involving architecting AI models, using computational techniques to streamline real-world resources, being involved in mentorship roles, and would like to grow in the science communication space. In my spare time, I enjoy reading and writing, making music and teaching Bharatanatyam dance, and doom scrolling on reddit whenever possible.
 
 - 🔭 I’m currently working on using machine learning techniques to accelerate large-scale astrophysical simulations
-- 👯 I’m looking to work on computational modeling, data analysis, visualization, and forecasting techniques + a lil sprinkle of outreach and sci comm
+- 👯 I’m looking to work on computational modeling & forecasting, data analysis & visualization + a lil sprinkle of outreach and sci comm
 - 💬 Ask me about fun space facts, good hiking trails, and my latest foster pets!
 - 📫 How to reach me: snigdaa.ram@gmail.com
 - 😄 Pronouns: she/her
