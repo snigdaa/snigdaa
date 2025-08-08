@@ -1,8 +1,9 @@
-## Hello world! I'm Snigdaa
+# Hello Universe! I'm Snigdaa
 
-I am currently a PhD candidate in Dr. John Wise's Computational Cosmology group at Georgia Tech's Center for Relativistic Astrophysics, looking to graduate within the next year. I work on computational cosmology and machine learning techniques, but am always looking to diversify my learning experience. I like working on projects involving architecting AI models, using computational techniques to streamline real-world resources, being involved in mentorship roles, and would like to grow in the science communication space. In my spare time, I enjoy reading and writing, making music and teaching Bharatanatyam dance, and doom scrolling on reddit whenever possible.
+I am currently a postdoctoral fellow at Argonne National Laboratory and am working on using ML/AI techniques in tandem with simulations to streamline runtime efficiency and data analysis techniques to improve theoretical model completeness. My background is in computational cosmology, but am always looking to apply my skills to interesting datasets of any kind and broaden my scientific horizons. Outside of research, I hope to contribute to the science communication space and make technically complex topics more accessible at different learning levels. In my spare time, I enjoy reading and writing, making music, teaching Bharatanatyam, and doom scrolling on reddit.
 
-- 🔭 I’m currently working on using machine learning techniques to accelerate large-scale astrophysical simulations
+## tl;dr
+- 🔭 I’m currently working on using machine learning techniques to accelerate large-scale astrophysical simulations and analysis
 - 👯 I’m looking to work on computational modeling & forecasting, data analysis & visualization + a lil sprinkle of outreach and sci comm
 - 💬 Ask me about fun space facts, good hiking trails, and my latest foster pets!
 - 📫 How to reach me: snigdaa.ram@gmail.com
