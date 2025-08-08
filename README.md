@@ -26,9 +26,4 @@ I am currently a postdoctoral fellow at Argonne National Laboratory and am worki
 
 -->
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/snigdaa-sethuram-16931850/)
-[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=instagram)](https://www.instagram.com/snickersnmocha/)
-[![Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://www.snigdaasethuram.com/)
-
 
