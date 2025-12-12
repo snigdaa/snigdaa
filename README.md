@@ -1,6 +1,6 @@
 # Hello Universe! I'm Snigdaa
 
-I am currently a postdoctoral fellow at Argonne National Laboratory and am working on using ML/AI techniques in tandem with simulations to streamline runtime efficiency and data analysis techniques to improve theoretical model completeness. My background is in computational cosmology, but am always looking to apply my skills to any interesting datasets and broaden my scientific horizons. Outside of research, I hope to contribute to the science communication space and make technically complex topics more accessible at different learning levels. In my spare time, I enjoy reading and writing, making music, teaching Bharatanatyam, and doom scrolling on reddit.
+I am currently a postdoctoral fellow at Argonne National Laboratory and am working on using ML/AI techniques in tandem with simulations to streamline runtime efficiency and data analysis techniques to improve theoretical model completeness. My background is in computational cosmology, but am always looking to apply my skills to any interesting datasets and broaden my scientific horizons. Outside of research, I hope to contribute to the science communication space and make technically complex topics more accessible at different learning levels. In my spare time, I enjoy reading, making music, teaching Bharatanatyam, and doom scrolling on reddit.
 
 ## tl;dr
 - 🔭 I’m currently working on using machine learning techniques to accelerate large-scale astrophysical simulations and analysis
